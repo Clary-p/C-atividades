@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-//exercício 25 página 49
+//exercício 25 página 50
 int main(){
 int custo,convite, qtd;
 printf("Digite o custo do espetáculo:");
