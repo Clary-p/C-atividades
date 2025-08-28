@@ -1,7 +1,7 @@
 #include <stdlib.h>
+#include <stdio.h>
 #include <math.h>
 //exercício 07 página 66
-#include <stdio.h>
 
 int main() {
     float A, B, C;
