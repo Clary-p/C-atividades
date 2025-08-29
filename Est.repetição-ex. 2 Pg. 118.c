@@ -7,6 +7,7 @@
 int main() {
     int n, i, j;
     double fat, e;  //constante de Euler?
+    printf("Digite n");
     scanf("%d", &n);
     e = 1.0;
     for (i = 1; i <= n; i++) {
